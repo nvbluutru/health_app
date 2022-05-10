@@ -1,0 +1,15 @@
+.table__title {
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 30px;
+}
+.form {
+  display: flex;
+  justify-content: space-between;
+}
+.form__input {
+  border: 1px solid #ccc;
+  padding: 0 10px;
+  border-radius: 4px;
+  flex-basis: 415px;
+}
